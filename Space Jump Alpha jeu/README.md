@@ -49,7 +49,10 @@ Files . ase and link beepbox available in file " Fichiers.ase et lien beepbox "
 
 Everything was made by myself Raphaël.
 
+### Possible improvements : 
 
+  - Possible main menu when opening the game.
+  - button on side to change the volume of the sound or mute.
 
 
 ### French
