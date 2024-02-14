@@ -2,13 +2,13 @@
 
 # Space Jump Alpha
 
-### English
+## English
 
 To read to understand where the drawings are.
 Files . ase and link beepbox available in file " Fichiers.ase et lien beepbox "
 
 
-# Drawings (Software used: LibreSprite) 
+### Drawings (Software used: LibreSprite) 
 
 - Tilesmap located next to the game map in 2D. 
 
@@ -18,13 +18,13 @@ Files . ase and link beepbox available in file " Fichiers.ase et lien beepbox "
 
 - Background done in tilemap and pixel by pixel on LibreSprite by myself.
 
-# Sounds (Software used: Sony Vegas and webite beepbox.co) 
+### Sounds (Software used: Sony Vegas and webite beepbox.co) 
 
 - Music made on Beepbox by myself
 
 - Using Sony Vegas software to reduce jump sound size and increase in game music duration
 
-# Credits #
+### Credits 
 
 Everything was made by myself Raphaël.
 
@@ -36,7 +36,7 @@ A lire pour comprendre où sont les dessins.
 Fichiers .ase et lien beepbox disponible dans fichier " Fichiers.ase et lien beepbox "
 
 
-# Dessins (Logiciel utilisé : LibreSprite) #
+### Dessins (Logiciel utilisé : LibreSprite) 
 
 - Tilesmap situé à côté de la map du jeu dans le 2D. 
 
@@ -46,13 +46,13 @@ Fichiers .ase et lien beepbox disponible dans fichier " Fichiers.ase et lien bee
 
 - Background fait en tilemap et en pixel par pixel sur LibreSprite par moi-même.
 
-# Sons (Logiciel utilisé : Sony Vegas et Site beepbox.co) #
+### Sons (Logiciel utilisé : Sony Vegas et Site beepbox.co) 
 
 - Musiques réalisés sur Beepbox 
 
 - Utilisation du logiciel Sony Vegas pour réduire la taille du son du saut et augmentation de la durée de la musique du jeu
 
-# Credits #
+### Credits 
 
 Tout a été réalisé par Raphaël.
 
