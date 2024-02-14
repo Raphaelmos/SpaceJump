@@ -4,6 +4,27 @@
 
 ## English
 
+What is this game ? 
+
+A astronaut moving in space with his own gravity platform to platform.
+
+### Characteristics
+
+Vertical 2D game built under Godot using the VisualScripting.VS only and its various tools such as nodes, the camera following the character and the many platforms in the game.
+
+Space Jump Alpha is therefore composed of two scripts, one for the main node called Main composed of a physics process function with conditions and instance function calls connect to the player’s position to determine 
+limits to the scene, to stay in the game area 
+and start again if the astronaut falls.
+
+The second Main child node script is 
+composed of the player with the functions of 
+movements (jump and actions left and 
+on the right), gravity and variables for the 
+gravity, speed, jumping speed and 
+function calls.
+
+
+
 To read to understand where the drawings are.
 Files . ase and link beepbox available in file " Fichiers.ase et lien beepbox "
 
@@ -32,6 +53,36 @@ Everything was made by myself Raphaël.
 
 
 ### French
+
+Qu'est ce que c'est ? 
+
+C'est un Astronaute se déplaçant dans l’espace avec une 
+gravité propre au jeu de plateforme en plateforme.
+
+### Characteristics
+Space Jump Alpha c'est quoi?
+
+Jeu 2D en vertical construit sous Godot en utilisant le 
+VisualScripting .VS et ses différents outils comme les 
+nœuds, la caméra suivant le personnage et les 
+nombreuses plateformes dans le jeu.
+
+Space Jump Alpha est donc composé de deux 
+scripts, un pour le nœud principal appelé Main 
+composé d’une fonction physics process avec des 
+conditions et des appels de fonctions en instance 
+relier a la position du joueur pour déterminer des 
+limites à la scène, pour rester dans la zone du jeu 
+et relancer au départ si l’astronaute tombe.
+
+Le deuxième script nœud enfant du Main est 
+celui du joueur avec les fonctions de 
+déplacement (le saut et les actions à gauche et 
+à droite), la gravité et des variables pour la 
+gravité, la vitesse, la vitesse de saut et des 
+appels de fonctions.
+
+
 A lire pour comprendre où sont les dessins.
 Fichiers .ase et lien beepbox disponible dans fichier " Fichiers.ase et lien beepbox "
 
